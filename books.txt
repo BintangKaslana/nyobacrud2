@@ -1,0 +1,18 @@
+1|Judul Buku|Author Buku
+2|Das Kapital|Karl Marx
+3|Max Havelaar|Multatuli
+4|Laskar Pelangi|Andrea Hirata
+5|Gintama|Hideaki Sorachi
+6|Negeri 5 Menara|Ahmad Fuadi
+7|Book of Constellations|Robin Kerrod
+8|The Stars|Arthur C. Clarke
+10|The Elusive Samurai|Yusei Matsui
+11|Frieren: Beyond Journey|Kanehito Yamada
+12|Grand Blue|Kenji Inoue
+13|Psychology of Money|Morgan Housel
+15|Atelier of Witch Hat|Kamome Shirahama
+16|Dunia Sophie|Jostein Gaarder
+17|Madilog|Tan Malaka
+18|Janji|Tere Liye
+19|86 "Eighty Six"|Asato Asato
+20|The Art of War|Sun Tzu
